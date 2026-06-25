@@ -1,0 +1,90 @@
+{
+  "crs": "EPSG:4326",
+  "description": "Seed de test ELDA - 4 dameuses autour de Serre Chevalier / Briancon. Positions horodatees (trace) + zone polygonale.",
+  "zone": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [6.53, 44.94],
+        [6.56, 44.94],
+        [6.56, 44.925],
+        [6.53, 44.925],
+        [6.53, 44.94]
+      ]
+    ]
+  },
+  "machines": [
+    {
+      "id": "alpha",
+      "name": "Dameuse Alpha",
+      "positions": [
+        { "lat": 44.932, "lng": 6.551, "timestamp": "2026-01-15T09:00:00Z" },
+        { "lat": 44.9314, "lng": 6.5517, "timestamp": "2026-01-15T09:02:00Z" },
+        { "lat": 44.9308, "lng": 6.5524, "timestamp": "2026-01-15T09:04:00Z" },
+        { "lat": 44.9302, "lng": 6.5531, "timestamp": "2026-01-15T09:06:00Z" },
+        { "lat": 44.9296, "lng": 6.5538, "timestamp": "2026-01-15T09:08:00Z" },
+        { "lat": 44.929, "lng": 6.5545, "timestamp": "2026-01-15T09:10:00Z" },
+        { "lat": 44.9284, "lng": 6.5552, "timestamp": "2026-01-15T09:12:00Z" },
+        { "lat": 44.9278, "lng": 6.5559, "timestamp": "2026-01-15T09:14:00Z" },
+        { "lat": 44.9272, "lng": 6.5566, "timestamp": "2026-01-15T09:16:00Z" },
+        { "lat": 44.9266, "lng": 6.5573, "timestamp": "2026-01-15T09:18:00Z" },
+        { "lat": 44.926, "lng": 6.558, "timestamp": "2026-01-15T09:20:00Z" },
+        { "lat": 44.9254, "lng": 6.5587, "timestamp": "2026-01-15T09:22:00Z" }
+      ]
+    },
+    {
+      "id": "bravo",
+      "name": "Dameuse Bravo",
+      "positions": [
+        { "lat": 44.9285, "lng": 6.552, "timestamp": "2026-01-15T09:00:00Z" },
+        { "lat": 44.9285, "lng": 6.5531, "timestamp": "2026-01-15T09:02:00Z" },
+        { "lat": 44.9285, "lng": 6.5542, "timestamp": "2026-01-15T09:04:00Z" },
+        { "lat": 44.9285, "lng": 6.5553, "timestamp": "2026-01-15T09:06:00Z" },
+        { "lat": 44.9285, "lng": 6.5564, "timestamp": "2026-01-15T09:08:00Z" },
+        { "lat": 44.9285, "lng": 6.5575, "timestamp": "2026-01-15T09:10:00Z" },
+        { "lat": 44.9285, "lng": 6.5586, "timestamp": "2026-01-15T09:12:00Z" },
+        { "lat": 44.9285, "lng": 6.5597, "timestamp": "2026-01-15T09:14:00Z" },
+        { "lat": 44.9285, "lng": 6.5608, "timestamp": "2026-01-15T09:16:00Z" },
+        { "lat": 44.9285, "lng": 6.5619, "timestamp": "2026-01-15T09:18:00Z" },
+        { "lat": 44.9285, "lng": 6.563, "timestamp": "2026-01-15T09:20:00Z" },
+        { "lat": 44.9285, "lng": 6.5641, "timestamp": "2026-01-15T09:22:00Z" }
+      ]
+    },
+    {
+      "id": "charlie",
+      "name": "Dameuse Charlie",
+      "positions": [
+        { "lat": 44.9455, "lng": 6.5375, "timestamp": "2026-01-15T09:00:00Z" },
+        { "lat": 44.9457, "lng": 6.538, "timestamp": "2026-01-15T09:02:00Z" },
+        { "lat": 44.9459, "lng": 6.5385, "timestamp": "2026-01-15T09:04:00Z" },
+        { "lat": 44.9461, "lng": 6.539, "timestamp": "2026-01-15T09:06:00Z" },
+        { "lat": 44.9463, "lng": 6.5395, "timestamp": "2026-01-15T09:08:00Z" },
+        { "lat": 44.9465, "lng": 6.54, "timestamp": "2026-01-15T09:10:00Z" },
+        { "lat": 44.9467, "lng": 6.5405, "timestamp": "2026-01-15T09:12:00Z" },
+        { "lat": 44.9469, "lng": 6.541, "timestamp": "2026-01-15T09:14:00Z" },
+        { "lat": 44.9471, "lng": 6.5415, "timestamp": "2026-01-15T09:16:00Z" },
+        { "lat": 44.9473, "lng": 6.542, "timestamp": "2026-01-15T09:18:00Z" },
+        { "lat": 44.9475, "lng": 6.5425, "timestamp": "2026-01-15T09:20:00Z" },
+        { "lat": 44.9477, "lng": 6.543, "timestamp": "2026-01-15T09:22:00Z" }
+      ]
+    },
+    {
+      "id": "delta",
+      "name": "Dameuse Delta",
+      "positions": [
+        { "lat": 44.8989, "lng": 6.6453, "timestamp": "2026-01-15T09:00:00Z" },
+        { "lat": 44.8991, "lng": 6.645, "timestamp": "2026-01-15T09:02:00Z" },
+        { "lat": 44.8993, "lng": 6.6447, "timestamp": "2026-01-15T09:04:00Z" },
+        { "lat": 44.8995, "lng": 6.6444, "timestamp": "2026-01-15T09:06:00Z" },
+        { "lat": 44.8997, "lng": 6.6441, "timestamp": "2026-01-15T09:08:00Z" },
+        { "lat": 44.8999, "lng": 6.6438, "timestamp": "2026-01-15T09:10:00Z" },
+        { "lat": 44.9001, "lng": 6.6435, "timestamp": "2026-01-15T09:12:00Z" },
+        { "lat": 44.9003, "lng": 6.6432, "timestamp": "2026-01-15T09:14:00Z" },
+        { "lat": 44.9005, "lng": 6.6429, "timestamp": "2026-01-15T09:16:00Z" },
+        { "lat": 44.9007, "lng": 6.6426, "timestamp": "2026-01-15T09:18:00Z" },
+        { "lat": 44.9009, "lng": 6.6423, "timestamp": "2026-01-15T09:20:00Z" },
+        { "lat": 44.9011, "lng": 6.642, "timestamp": "2026-01-15T09:22:00Z" }
+      ]
+    }
+  ]
+}
